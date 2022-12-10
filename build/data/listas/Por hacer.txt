@@ -1,0 +1,9 @@
+[ ] - Arreglar la entrada de texto
+[ ] - Arrastre de la barra de scroll
+[ ] - Soporte UTF-8
+[ ] - Mejorar focus del teclado'
+[ ] - limpiar el codigo
+[ ] - A veces duplica un elemento de la lista 
+[ ] - Mucha optimizacion
+[ ] - Terminar version de Linux               
+[ ] - Mejora los botones

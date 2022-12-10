@@ -1,0 +1,4 @@
+[ ] - A veces la entrada de texto no registra
+[ ] - A veces la entrada de texto no registra
+[ ] - No funciona el arrastre de la scroll bar
+[ ] - crashs aleatorios

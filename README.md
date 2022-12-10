@@ -1,4 +1,4 @@
-# Lista de tareas usando C y SDL2
+# Lista de tareas usando C/C++ y SDL2
 
 Programa para gestionar listas de tareas. 
 
@@ -6,22 +6,24 @@ Permite crear listas de tareas y agregarles tareas, ademas de marcarlas como com
 
 Almacena las listas de tareas como archivos de texto plano para permitir la edicion fuera del programa.
 
-Intefaz grafica usando C con las bibliotecas SDL2, SDL_Image, SDL_TTF.
+Intefaz grafica usando C/C++ con las bibliotecas SDL2, SDL_Image, SDL_TTF.
 
 La entrada de texto tiene el problema que no registra algunas pulsaciones de tecla, hay que volver a presionarla hasta que apareza.
 (Lo solucionare pronto)
 
-__Este es solo un proyecto que hice para aprender a hacer interfaces graficas usando C.__
+__Este es solo un proyecto que hice para aprender como hacer interfaces graficas desde cero usando C/C++.__
 
 
 ## Usar
 
-Descargar desde la seccion de Releases o desde aqui:
+Descargar desde la seccion de Releases o desde el siguiente link:
 
-    https://github.com/jorgesc231/lista_tareas_sdl
+    https://github.com/jorgesc231/lista_tareas_sdl/releases/download/v0.2.0/lista_tareas_sdl_win64_release.zip
 
 
-Abrir el archivo exe y comenzar a usar
+Ejecutar el ejecutable:
+
+    lista_tareas_sdl.exe
 
 (No recomiendo usarlo enserio porque aun tiene bastantes bugs, sobre todo en la entrada de texto y la forma de almacenar los datos)
 

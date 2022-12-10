@@ -18,10 +18,10 @@ __Este es solo un proyecto que hice para aprender como hacer interfaces graficas
 
 Descargar desde la seccion de Releases o desde el siguiente link:
 
-    https://github.com/jorgesc231/lista_tareas_sdl/releases/download/v0.2.0/lista_tareas_sdl_win64_release.zip
+- [Descargar el ejecutable para Windows desde aqui](https://github.com/jorgesc231/lista_tareas_sdl/releases/download/v0.2.0/lista_tareas_sdl_win64_release.zip)
 
 
-Ejecutar el ejecutable:
+Descomprimir y Ejecutar:
 
     lista_tareas_sdl.exe
 
@@ -31,13 +31,13 @@ Ejecutar el ejecutable:
 
 SDL2, la fuente y los iconos estan incluidos en el repo.
 
-clonar el repositorio:
+Clonar el repositorio:
 
     git clone https://github.com/jorgesc231/lista_tareas_sdl.git
     
-Abrir una terminal con cl e ir al directorio:
+Abrir la terminal _x64 Native Tools Command Prompt for VS 2019_ que se instala con Visual Studio e ir al directorio del codigo fuente:
 
-    cd lista_tareas_sdl
+    cd lista_tareas_sdl/src
 
 y ejecutar el archivo:
 
